@@ -1,0 +1,15 @@
+tr td .star-rating {
+  line-height:20px;
+  font-size:1em;
+}
+
+tr td .fa-star{color: gold;}
+tr td .fa-star-half{color: gold;}
+
+tr th .star-rating {
+  line-height:20px;
+  font-size:1em;
+}
+
+tr th .fa-star{color: gold;}
+tr th .fa-star-half{color: gold;}
